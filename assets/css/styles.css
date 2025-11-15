@@ -22,7 +22,7 @@
 }
 
 .intro-img img{
-  height: auto;
+  min-height: auto;
   max-width: 100%;
 }
 
