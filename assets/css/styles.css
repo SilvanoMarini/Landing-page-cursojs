@@ -89,3 +89,21 @@
 .gallery-img img:hover {
   transform: translate(-3%, 3%) scale(1.2) rotate(5deg);
 }
+
+.footer {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.footer a {
+  color: #0A1128;
+}
+
+.footer p {
+  margin: 0;
+  padding: 3rem;
+}
+
+.footer span {
+  color:crimson;
+}
