@@ -175,4 +175,9 @@
     content: '×';
   }
 
+
+  .menu-spacing {
+    display: none;
+  }
+
 }
